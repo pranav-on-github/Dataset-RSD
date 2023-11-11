@@ -7,8 +7,6 @@ Please see the [fMoW flyer](https://github.com/fMoW/dataset/raw/master/IARPA-fMo
 
 ## References
 
-If you use our dataset or code, please cite [our paper](https://arxiv.org/abs/1711.07846):
-
 ```
 @inproceedings{fmow2018,
   title={Functional Map of the World},
